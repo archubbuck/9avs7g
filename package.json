@@ -1,0 +1,8 @@
+{
+  "name": "hjbt2s--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "5.3.3"
+  }
+}
